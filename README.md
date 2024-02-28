@@ -67,25 +67,25 @@ The server is deployed on VPS
 
 | Name | Version |
 | ------------ | ------------ |
-| Ubuntu | v20.4  |
-| Docker | v3 |
-| Docker Compose | v3 |
+| Ubuntu | 20.04 LTS x64  |
+| Docker | v25.0.3 |
+| Docker Compose | v2.24.6 |
 | NodeJS | v14 |
 
 - Info Server
 ```
-CPU model            : Intel Xeon Processor (Skylake, IBRS)
-Number of cores      : 2
-CPU frequency        : 2593.904 MHz
-Total size of Disk   : 80.0 GB (21.0 GB Used)
-Total amount of Mem  : 3925 MB (1797 MB Used)
-Total amount of Swap : 7999 MB (4 MB Used)
-System uptime        : 0 days, 4 hour 10 min
-Load average         : 1.23, 0.83, 0.80
-OS                   : Ubuntu 21.10 
+CPU model            : Intel Core Processor (Skylake, IBRS)
+Number of cores      : 1
+CPU frequency        : 3696.000 MHz
+Total size of Disk   : 121.1 GB (33.8 GB Used)
+Total amount of Mem  : 959 MB (511 MB Used)
+Total amount of Swap : 3099 MB (286 MB Used)
+System uptime        : 0 days, 0 hour 23 min
+Load average         : 0.48, 0.44, 0.26
+OS                   : Ubuntu 20.04.6 LTS
 Arch                 : x86_64 (64 Bit)
-Kernel               : 5.13.0-25-generic
-Virt                 : kvm
+Kernel               : 5.4.0-170-generic
+Virt                 : No Virt
 ```
 
 

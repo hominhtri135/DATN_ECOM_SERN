@@ -57,12 +57,14 @@ Mật khẩu OTP: 123456
 # Deployment - Docker
 The server is deployed on VPS
 - Info Application
+
 | Name | Version |
 | ------------ | ------------ |
 | Ubuntu | v20.4  |
 | Docker | v3 |
 | Docker Compose | v3 |
 | NodeJS | v14 |
+
 - Info Server
 ```
 CPU model            : Intel Xeon Processor (Skylake, IBRS)

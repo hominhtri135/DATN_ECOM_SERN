@@ -47,6 +47,10 @@ Mật khẩu OTP: 123456
 - React Router - Configuring routes
 - Socket.io - Connect to the server to send messages
 - Markdown Editor, Paginate, Slick, Toastify, ...
+
+### Free template source used: 
+- [e-Commerce Website Template](https://themewagon.com/themes/free-html5-bootstrap-4-e-commerce-website-template-eiser)
+- [SB Admin](https://startbootstrap.com/template/sb-admin)
 ------------
 # Backend - MySQL, ExpressJS, NodeJS
 - Build an e-commerce API system

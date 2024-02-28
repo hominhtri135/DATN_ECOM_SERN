@@ -27,6 +27,9 @@ Mật khẩu OTP: 123456
 - Blog management
 - User management
 - Statistical
+- Payment system uses VNpay
+- Send email (account authentication, forgot password)
+- Sign in with account system or google
 
 ### Table of contents
   1. [Frontend - ReactJS](#frontend---reactjs)
